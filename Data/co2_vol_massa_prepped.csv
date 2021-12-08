@@ -1,0 +1,27 @@
+﻿Type of fuel: ,Pounds CO2 ,lbs co2 unit of measure,Kilograms CO2,kilo co2 unit of measure,Pounds CO2 per million btu,Kilograms CO2 per million btu
+Propane,12.61,gallon,5.72,gallon,138.63,62.88
+Diesel and Home Heating Fuel (Distillate Fuel Oil),22.46,gallon,10.19,gallon,163.45,74.14
+Kerosene,21.78,gallon,9.88,gallon,161.35,73.19
+Coal (All types),"4,027.93",short ton,"1,827.04",short ton,211.06,95.74
+Natural Gas,121.31,thousand cubic feet,55.03,thousand cubic feet,116.65,52.91
+Gasoline,18.74,gallon,8.5,gallon,155.77,70.66
+Residual Heating Fuel (Businesses only),24.78,gallon,11.24,gallon,165.55,75.09
+Jet Fuel,21.5,gallon,9.75,gallon,159.25,72.23
+Aviation Gasoline,18.32,gallon,8.31,gallon,152.46,69.15
+Petroleum coke,32.87,gallon,14.91,gallon,225.13,102.12
+Asphalt and Road Oil,26.25,gallon,11.91,gallon,166.12,75.35
+Lubricants,23.58,gallon,10.7,gallon,163.29,74.07
+Naphthas for Petrochemical Feedstock Use,18.74,gallon,8.5,gallon,149.95,68.02
+Other Oils for Petrochemical Feedstock Use,22.61,gallon,10.26,gallon,163.05,73.96
+Special Naphthas (solvents),19.94,gallon,9.04,gallon,159.57,72.38
+Waxes ,21.1,gallon,9.57,gallon,160.06,72.6
+Anthracite coal,"5,715.11",short ton,"2,592.33",short ton,228.6,103.69
+Bituminous coal,"4,929.71",short ton,"2,236.08",short ton,205.4,93.17
+Subbituminous coal,"3,747.36",short ton,"1,699.78",short ton,214.13,97.13
+Lignite coal,"2,811.07",short ton,"1,275.08",short ton,216.24,98.08
+Coke coal,"7,174.19",short ton,"3,254.16",short ton,250.59,113.67
+Geothermal (steam),NA,,NA,,26.04,11.81
+Geothermal (binary cycle),NA,,NA,,0,0
+"Municipal Solid Wastea,b","5,771.04",short ton,"2,617.70",short ton,91.9,41.69
+Tire-derived fuela,"5,961.03",short ton,"2,703.88",short ton,189.54,85.97
+Waste oila,22.51,gallon,10.21,gallon,163.14,74
