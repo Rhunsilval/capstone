@@ -25,6 +25,7 @@ First, why are the strawberries sold in my grocery store, in the height of straw
 And, secondly, with "sustainability" such a hot topic right now (rather than just my own personal goal), why don't I see more of an effort to embrace and advertise sustainability in Nashville's restaurant scene?  There's a few restaurants in town that advertise themselves as sustainable, but not many.  And with Nashville being such a foodie town, and sustainability being such a trendy topic, this makes no sense to me.  
 
 I've read articles about the subject for years, but I've always been curious about what the actual data looks like.  The training and skills I've learned with Nashville Software School, and the opportunity to assemble this project, have given me the chance to finally get to examine and analyze some of this data for myself.  
+
 *Back to [Contents](#Contents)* 
 
 
@@ -40,6 +41,7 @@ Ultimately, in this project, I don't know.
 This project instead focuses on averages: what the impacts are of transporting 1-ton of general "dry goods".  This limitation does necessitate excluding the bulk transport of liquid food products, but not packaged versions of these products, nor the original format of those ingredients (livestock or produce).
 
 By examining specifically the average effects of transport by weight, it matters less whether that vehicle is transporting 1-ton of apples or 1-ton of action figures.  The effect would be the same.
+
 *Back to [Contents](#Contents)* 
 
 
@@ -87,6 +89,7 @@ By examining specifically the average effects of transport by weight, it matters
 			-*Source 2 : [The Association of American Railroads](https://www.aar.org/data-center/)
 - Filter all information through the lens of efficiency via a ton-mile
 	- Calculated by multiplying how much weight a vessel is carrying by the MPG of that vessel
+
 *Back to [Contents](#Contents)* 
 
 
@@ -102,6 +105,7 @@ This project primarily used data published by the U.S. Government
 - [The Geography of Transport Systems](https://transportgeography.org/contents/chapter4/transportation-and-energy/fuel-consumption-containerships/), by Jean-Paul Rodrigue 
 - The National Air and Space Museum: [How Things Fly](https://airandspace.si.edu/exhibitions/how-things-fly)
 - The Engineering Toolbox: [Combustion of Fuels- Carbon Dioxide Emission](https://www.eia.gov/environment/emissions/co2_vol_mass.php)
+
 *Back to [Contents](#Contents)*
 
 
@@ -109,5 +113,8 @@ This project primarily used data published by the U.S. Government
 - 'MS Excel', Microsoft Office Professional Plus 2019
 - 'Jupyter Notebook', version 6.3.0
 - 'GetData Graph Digitizer', version 2.26
+
 *Back to [Contents](#Contents)*
 
+
+### **Schedule**
