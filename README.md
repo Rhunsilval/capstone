@@ -105,16 +105,23 @@ This project primarily used data published by the U.S. Government
 - [The Geography of Transport Systems](https://transportgeography.org/contents/chapter4/transportation-and-energy/fuel-consumption-containerships/), by Jean-Paul Rodrigue 
 - The National Air and Space Museum: [How Things Fly](https://airandspace.si.edu/exhibitions/how-things-fly)
 - The Engineering Toolbox: [Combustion of Fuels- Carbon Dioxide Emission](https://www.eia.gov/environment/emissions/co2_vol_mass.php)
-
-*Back to [Contents](#Contents)*
+*Back to [Contents](#Contents)* 
 
 
 **Tools**
 - 'MS Excel', Microsoft Office Professional Plus 2019
 - 'Jupyter Notebook', version 6.3.0
 - 'GetData Graph Digitizer', version 2.26
-
-*Back to [Contents](#Contents)*
+*Back to [Contents](#Contents)* 
 
 
 ### **Schedule**
+11/20/2021 ..... Get the data
+12/02/2021 ..... Clean and explore the data, fill data gaps with research
+12/11/2021 ..... Research correlations, create charts, presentation assembly and rehearsal
+12/18/2021 ..... Internal Demos
+01/06/2022 ..... Demo Day!
+*Back to [Contents](#Contents)* 
+
+
+
