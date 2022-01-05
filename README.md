@@ -105,6 +105,7 @@ This project primarily used data published by the U.S. Government
 - [The Geography of Transport Systems](https://transportgeography.org/contents/chapter4/transportation-and-energy/fuel-consumption-containerships/), by Jean-Paul Rodrigue 
 - The National Air and Space Museum: [How Things Fly](https://airandspace.si.edu/exhibitions/how-things-fly)
 - The Engineering Toolbox: [Combustion of Fuels- Carbon Dioxide Emission](https://www.eia.gov/environment/emissions/co2_vol_mass.php)
+
 *Back to [Contents](#Contents)* 
 
 
@@ -112,6 +113,7 @@ This project primarily used data published by the U.S. Government
 - 'MS Excel', Microsoft Office Professional Plus 2019
 - 'Jupyter Notebook', version 6.3.0
 - 'GetData Graph Digitizer', version 2.26
+
 *Back to [Contents](#Contents)* 
 
 
@@ -121,7 +123,43 @@ This project primarily used data published by the U.S. Government
 12/11/2021 ..... Research correlations, create charts, presentation assembly and rehearsal
 12/18/2021 ..... Internal Demos
 01/06/2022 ..... Demo Day!
+
 *Back to [Contents](#Contents)* 
 
 
 
+### **Approach Outline**
+To track progress and keep myself organized, I used a combination of the Project (Kanban) board in the GitHub repository, and a spreadsheet of sources links on Google Drive
+- Find data for fuel consumption, for each transit type
+- Find data for cargo weight loads, for each transit type
+- Find data for types of fuel, for each transit type
+- Find data for CO2 emissions, for each fuel type
+- Find data for fuel prices, for each fuel type
+- Clean and explore data, fill gaps in my data with additional research
+- Convert all datasets to standard units: 
+	- Fuel amounts to gallons
+	- Cargo weights to tons
+	- Fuel consumption to Miles-Per-Gallon
+	- Speeds to Miles-Per-Hour (ground level)
+- Determine speed and cargo-carrying averages for each transit type
+- Explore my data questions, calculating and comparing different transportation methods all through the lens of a ton-mile
+- Determine the best method for merging my datasets
+- Create and edit charts and graphs that clearly explain the findings within my complicated data.  My aim was simplicity so as not to confuse or overwhelm my audience
+- Determine the narrative of my presentation, and assemble my presentation
+- Practice my presentation, with a stopwatch, to multiple test audiences.  Condense and make edits
+
+*Back to [Contents](#Contents)* 
+
+
+### **Acknowledgements**
+First and foremost, I need to offer my deep and sincere thanks and gratitude to my instructors and to the staff at **Nashville Software School.**  With their support and knowledge, I have felt thoroughly empowered and equipped to tackle the complicated and daunting task of learning an entirely new skill set and facilitate a new career shift.
+	- Specific thanks go out to my instructors - the ever-patient-and-knowlegeable **Andrew Marsee**, the always-encouraging-and-helpful **Teresa Whitesell**, and the helpfully-analytical-and-good-humored **Amanda Partlow**.  
+	- They are invaluable as instructors and an assett to the **Nashville Software School**.  Knowledgeable.  Able and willing to answer 1001 questions - often on the fly and often outside of regular class hours.  And very helpful in helping me to both learn these programs and learn how to research to find answers to my questions.
+
+Secondly, a shout-out to **my fantastic classmates**!  Not only were a ton of fun to learn alongside, but I often found myself learning almost as much from how you found ways to solve our class challenges as I learned from the instructors!  Your sense of humor, your persistence, your encouragement, and you're willingness to share relevant articles, codes, methods - whatever you found! - with everyone else made this wonderful learning experience just that much better!  
+
+Finally, I would like to offer my thanks to my friends and family.  Thank you for your encouragement, support, advice, and occasional snacks during this six-month-plus marathon of extreme virtual-learning!  Thank you for your willingness to help me practice my presentation with you, and thank you for your honest feedback for what needs to be fixed.
+	- A special THANK YOU goes out to my friends **Tom Ward** and **Veronica Ikeshoji-Orlati**.  It was your advice and encouragement that led me to start this journey with NSS in the first place.  Thank you for your advise.  Thank you for helping me to think through complicated problems, for looking over bits of confusing code, and for helping me to research for solutions.  Thank you for letting me BORROW YOUR COMPUTER over an entire weekend (!) to run some problematic lines of code that were taking forever, and for then helping me to find a far more efficient way to solve that problem!  Thank you for seriously, and literally, everything!
+	- A special thank you also goes out to my friend **Randy Moody**.  You helped me find a computer that allowed me to take this class on short notice, well under my budget.  I don't know how you pulled that off, but I literally could not have done any of this without your providence!  
+
+*Back to [Contents](#Contents)* 
