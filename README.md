@@ -86,7 +86,8 @@ By examining specifically the average effects of transport by weight, it matters
 - Convert all speeds to miles per hour (MPH)
 - Convert all fuel measurements to gallons
 - Determine average weights for cargo loads, convert all weights to tons
-	- Ships: ship size was provided in ranges of standard TEU measurements: Twenty-foot Equivalent Units (the standard size of a cargo container)
+	- Ships:
+		- Ship size was provided in ranges of standard TEU measurements: Twenty-foot Equivalent Units (the standard size of a cargo container)
 		- Maximum gross mass of dry goods per TEU is 52,910 lbs
 		- I used the mean TEU capacity for each ship size category, then calculated shipment weight based upon the maximum TEU weight of that mean size
 		- I dropped the largest ship size category from my dataset.  It was listed as "10,000+".  Without a maximum ceiling on that weight range, I could not accurately determine an average cargo weight
