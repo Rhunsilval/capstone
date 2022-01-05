@@ -49,6 +49,7 @@ I've read articles about the subject for years, but I've always been curious abo
 
 
 **How do I know which transport is carrying food, versus carrying something else, or carrying mixed cargo?**
+
 Ultimately, in this project, I don't know.  
 This project instead focuses on averages: what the impacts are of transporting 1-ton of general "dry goods".  This limitation does necessitate excluding the bulk transport of liquid food products, but not packaged versions of these products, nor the original format of those ingredients (livestock or produce).
 
@@ -59,6 +60,7 @@ By examining specifically the average effects of transport by weight, it matters
 
 ### **Known Issues and Challenges**
 **Variable Diversity Within the Scope of My Data Questions**
+
 *Many of my questions center on how much fuel is consumed when moving cargo.  Answer varies depending on:*
 - The kind of fuel
 - The kind of vessel
@@ -69,6 +71,7 @@ By examining specifically the average effects of transport by weight, it matters
 - Urban congestion
 - Weather
 - Elevation
+
 (My data did not specifically include the effects of these factors, but they admittedly would have an effect)
 
 
@@ -89,7 +92,8 @@ By examining specifically the average effects of transport by weight, it matters
 		- I dropped the largest ship size category from my dataset.  It was listed as "10,000+".  Without a maximum ceiling on that weight range, I could not accurately determine an average cargo weight
 	- Planes: 
 		- Via my research, I learened that cargo planes are almost always the same size and make as passenger planes
-		- The most common plane (Boeing 737) carries an average weight of 45,000 lbs of cargo (The Smithsonian National Air and Space Museum)
+		- The most common plane (Boeing 737) carries an average weight of 45,000 lbs of cargo 
+		- per The Smithsonian National Air and Space Museum
 	- Trucks: 
 		- My data concerning truck weights provided the maximum legal weight loads for shipping trucks, based on the old Class 1-8 truck classification system
 		- My data concerning truck fuel consumption was provided using the new government 3-category truck classification system
