@@ -41,6 +41,7 @@ Ultimately, in this project, I don't know.
 This project instead focuses on averages: what the impacts are of transporting 1-ton of general "dry goods".  This limitation does necessitate excluding the bulk transport of liquid food products, but not packaged versions of these products, nor the original format of those ingredients (livestock or produce).
 
 By examining specifically the average effects of transport by weight, it matters less whether that vehicle is transporting 1-ton of apples or 1-ton of action figures.  The effect would be the same.
+
 *Back to [Contents](#Contents)* 
 
 
@@ -76,18 +77,18 @@ By examining specifically the average effects of transport by weight, it matters
 		- I dropped the largest ship size category from my dataset.  It was listed as "10,000+".  Without a maximum ceiling on that weight range, I could not accurately determine an average cargo weight
 	- Planes: 
 		- Via my research, I learened that cargo planes are almost always the same size and make as passenger planes
-		- The most common plane (Boeing 737) carries an average weight of 45,000 lbs of cargo 
-		*Smithsonian National Air and Space Museum
+		- The most common plane (Boeing 737) carries an average weight of 45,000 lbs of cargo (The Smithsonian National Air and Space Museum)
 	- Trucks: 
 		- My data concerning truck weights provided the maximum legal weight loads for shipping trucks, based on the old Class 1-8 truck classification system
 		- My data concerning truck fuel consumption was provided using the new government 3-category truck classification system
 		- To determine an average cargo load with the new system, I filtered the old 8-class system into the new 3-category system, then used the mean weight capacity of that new size range to determine a cargo weight
 	- Trains:
 		- Published research I found clearly stated that the average weight of a non-liquid cargo load was 30,000 tons
-			Source 1 : [Factcheck](https://www.factcheck.org/2008/07/fuel-efficient-freight-trains/)
-			Source 2 : [The Association of American Railroads](https://www.aar.org/data-center/)
+			- Source 1 : [Factcheck](https://www.factcheck.org/2008/07/fuel-efficient-freight-trains/)
+			- Source 2 : [The Association of American Railroads](https://www.aar.org/data-center/)
 - Filter all information through the lens of efficiency via a ton-mile
 	- Calculated by multiplying how much weight a vessel is carrying by the MPG of that vessel
+
 *Back to [Contents](#Contents)* 
 
 
@@ -103,6 +104,7 @@ This project primarily used data published by the U.S. Government
 - [The Geography of Transport Systems](https://transportgeography.org/contents/chapter4/transportation-and-energy/fuel-consumption-containerships/), by Jean-Paul Rodrigue 
 - The National Air and Space Museum: [How Things Fly](https://airandspace.si.edu/exhibitions/how-things-fly)
 - The Engineering Toolbox: [Combustion of Fuels- Carbon Dioxide Emission](https://www.eia.gov/environment/emissions/co2_vol_mass.php)
+
 *Back to [Contents](#Contents)* 
 
 
