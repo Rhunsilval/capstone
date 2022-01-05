@@ -40,6 +40,7 @@ Ultimately, in this project, I don't know.
 This project instead focuses on averages: what the impacts are of transporting 1-ton of general "dry goods".  This limitation does necessitate excluding the bulk transport of liquid food products, but not packaged versions of these products, nor the original format of those ingredients (livestock or produce).
 
 By examining specifically the average effects of transport by weight, it matters less whether that vehicle is transporting 1-ton of apples or 1-ton of action figures.  The effect would be the same.
+*Back to [Contents](#Contents)* 
 
 
 ### **Known Issues and Challenges**
@@ -82,10 +83,11 @@ By examining specifically the average effects of transport by weight, it matters
 		- To determine an average cargo load with the new system, I filtered the old 8-class system into the new 3-category system, then used the mean weight capacity of that new size range to determine a cargo weight
 	-Trains:
 		- Published research I found clearly stated that the average weight of a non-liquid cargo load was 30,000 tons
-			*Source 1 : [Factcheck](https://www.factcheck.org/2008/07/fuel-efficient-freight-trains/)
-			*Source 2 : [The Association of American Railroads](https://www.aar.org/data-center/)
+			-*Source 1 : [Factcheck](https://www.factcheck.org/2008/07/fuel-efficient-freight-trains/)
+			-*Source 2 : [The Association of American Railroads](https://www.aar.org/data-center/)
 - Filter all information through the lens of efficiency via a ton-mile
 	- Calculated by multiplying how much weight a vessel is carrying by the MPG of that vessel
+*Back to [Contents](#Contents)* 
 
 
 ### **Data Sources and Tools**
@@ -100,11 +102,12 @@ This project primarily used data published by the U.S. Government
 - [The Geography of Transport Systems](https://transportgeography.org/contents/chapter4/transportation-and-energy/fuel-consumption-containerships/), by Jean-Paul Rodrigue 
 - The National Air and Space Museum: [How Things Fly](https://airandspace.si.edu/exhibitions/how-things-fly)
 - The Engineering Toolbox: [Combustion of Fuels- Carbon Dioxide Emission](https://www.eia.gov/environment/emissions/co2_vol_mass.php)
-	*Back to [Contents](#Contents)*
+*Back to [Contents](#Contents)*
 
 
 **Tools**
 - 'MS Excel', Microsoft Office Professional Plus 2019
 - 'Jupyter Notebook', version 6.3.0
 - 'GetData Graph Digitizer', version 2.26
-	*Back to [Contents](#Contents)*
+*Back to [Contents](#Contents)*
+
