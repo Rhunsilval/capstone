@@ -95,6 +95,7 @@ By examining specifically the average effects of transport by weight, it matters
 
 ### **Data Sources and Tools**
 **Data Sources**
+
 This project primarily used data published by the U.S. Government
 - U.S. Surface Transportation Board: [Rail Service Data](https://www.stb.gov/reports-data/rail-service-data/)
 - U.S. Department of Transportation: [Average Truck Speeds on Selected Interstate Highways: 2009](https://ops.fhwa.dot.gov/freight/freight_analysis/nat_freight_stats/docs/10factsfigures/table3_8.htm)
@@ -132,7 +133,6 @@ This project primarily used data published by the U.S. Government
 To track progress and keep myself organized, I used a combination of the Project (Kanban) board in the GitHub repository, and a spreadsheet of sources links on Google Drive
 - Find data for fuel consumption, for each transit type
 - Find data for cargo weight loads, for each transit type
-- Find data for types of fuel, for each transit type
 - Find data for CO2 emissions, for each fuel type
 - Find data for fuel prices, for each fuel type
 - Clean and explore data, fill gaps in my data with additional research
