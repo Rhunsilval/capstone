@@ -136,7 +136,7 @@ This project primarily used data published by the U.S. Government
 ### **Schedule**
 - 11/20/2021 ..... Get the data 
 - 12/02/2021 ..... Clean and explore the data, fill data gaps with research 
-- 12/11/2021 ..... Research correlations, create charts, presentation assembly and rehearsal 
+- 12/11/2021 ..... Research correlations, create charts, presentation assembly 
 - 12/18/2021 ..... Internal Demos 
 - 01/06/2022 ..... Demo Day! 
 
