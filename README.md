@@ -11,7 +11,18 @@
 - [Acknowledgements](#Acknowledgements)
 
 
-**Considering sustainabilty in the choices we make is important, but it's often difficult to determine what the more sustainable choices are.** When deciding what to eat, or order, or prepare, there are a lot of factors to consider.  This project specifically examines some of the questions and data concerning how food is transported from a producer to a consumer, and what kind of sustainabilty issues are involved in that transportation.  What kind of transport is used to move the goods?  What kind of fuel does that transport use?  How much fuel is used?  How polluting is that fuel?  How expensive is that fuel?  And, how does transporting food over long distances compare to moving food over short distances in terms of sustainability?  Specifically, this project defines sustainabilty as being efficient in terms of delivery time, fuel consumption, and financial cost, while minimizing CO2 pollution.
+**Considering sustainabilty in the choices we make is important, but it's often difficult to determine what the more sustainable choices are.** When deciding what to eat, or order, or prepare, there are a lot of factors to consider.  
+
+This project specifically examines some of the questions and data concerning how food is transported from a producer to a consumer, and what kind of sustainabilty issues are involved in that transportation.  
+What kind of transport is used to move the goods?  
+What kind of fuel does that transport use?  
+How much fuel is used?  
+How polluting is that fuel?  
+How expensive is that fuel?  
+And, how does transporting food over long distances compare to moving food over short distances in terms of sustainability?  
+
+Specifically, this project defines sustainabilty as being efficient in terms of delivery time, fuel consumption, and financial cost, while minimizing CO2 pollution.
+
 
 ### **Motivation**
 "Food" is a subject of great interest and passion for me.  Not just in terms of trying new recipies or following foodie-trends, but I am also very curious about the topics of gastro-anthropology, the socio-ethics of food, accessibilty, and sustainability.  
