@@ -83,7 +83,7 @@ By examining specifically the average effects of transport by weight, it matters
 		- My data concerning truck weights provided the maximum legal weight loads for shipping trucks, based on the old Class 1-8 truck classification system
 		- My data concerning truck fuel consumption was provided using the new government 3-category truck classification system
 		- To determine an average cargo load with the new system, I filtered the old 8-class system into the new 3-category system, then used the mean weight capacity of that new size range to determine a cargo weight
-	-Trains:
+	- Trains:
 		- Published research I found clearly stated that the average weight of a non-liquid cargo load was 30,000 tons
 			-*Source 1 : [Factcheck](https://www.factcheck.org/2008/07/fuel-efficient-freight-trains/)
 			-*Source 2 : [The Association of American Railroads](https://www.aar.org/data-center/)
@@ -95,7 +95,6 @@ By examining specifically the average effects of transport by weight, it matters
 
 ### **Data Sources and Tools**
 **Data Sources**
-
 This project primarily used data published by the U.S. Government
 - U.S. Surface Transportation Board: [Rail Service Data](https://www.stb.gov/reports-data/rail-service-data/)
 - U.S. Department of Transportation: [Average Truck Speeds on Selected Interstate Highways: 2009](https://ops.fhwa.dot.gov/freight/freight_analysis/nat_freight_stats/docs/10factsfigures/table3_8.htm)
