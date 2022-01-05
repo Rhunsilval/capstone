@@ -154,8 +154,8 @@ To track progress and keep myself organized, I used a combination of the Project
 ### **Acknowledgements**
 First and foremost, I need to offer my deep and sincere thanks and gratitude to my instructors and to the staff at **Nashville Software School.**  With their support and knowledge, I have felt thoroughly empowered and equipped to tackle the complicated and daunting task of learning an entirely new skill set and facilitate a new career shift.
 
-	- Specific thanks go out to my instructors - the ever-patient-and-knowlegeable **Andrew Marsee**, the always-encouraging-and-helpful **Teresa Whitesell**, and the helpfully-analytical-and-good-humored **Amanda Partlow**.  
-	- They are invaluable as instructors and an assett to the **Nashville Software School**.  Knowledgeable.  Able and willing to answer 1001 questions - often on the fly and often outside of regular class hours.  And very helpful in helping me to both learn these programs and learn how to research to find answers to my questions.
+- Specific thanks go out to my instructors - the ever-patient-and-knowlegeable **Andrew Marsee**, the always-encouraging-and-helpful **Teresa Whitesell**, and the helpfully-analytical-and-good-humored **Amanda Partlow**.
+- They are invaluable as instructors and an assett to the **Nashville Software School**.  Knowledgeable.  Able and willing to answer 1001 questions - often on the fly and often outside of regular class hours.  And very helpful in helping me to both learn these programs and learn how to research to find answers to my questions.
 
 Secondly, a shout-out to **my fantastic classmates**!  Not only were you a ton of fun to learn alongside, but I often found myself learning almost as much from you as I learned from our instructors!  Your sense of humor, your persistence, your encouragement, and your willingness to share relevant articles, codes, methods - whatever you found! - with everyone else made this wonderful learning experience just that much better!  
 
