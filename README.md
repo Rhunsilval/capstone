@@ -1,5 +1,6 @@
 ## **The Cost of Moving Food: Exploring Food Sustainabilty Through the Lens of Transport**
 *Capstone Project for Part-Time Data Analytics Cohort #5 program at Nashville Software School.*
+Python (Pandas, Numpy, Matplotlib, Seaborn), Excel, Powerpoint
 
 ### **Contents**
 - [Motivation](#Motivation)
